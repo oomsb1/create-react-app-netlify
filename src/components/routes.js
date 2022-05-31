@@ -1,4 +1,5 @@
 import { Route, Routes } from "react-router-dom";
+import "bootstrap/dist/css/bootstrap.min.css";
 import "../style.css";
 import HomePagina from "./homepagina";
 import CV from "./cv";
